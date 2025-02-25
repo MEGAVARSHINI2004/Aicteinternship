@@ -58,5 +58,5 @@ python stegano.py decode output_image.png
 - **Megavarshini A** – Project Lead & Developer
 
 ## **Acknowledgments**
-Special thanks to **IBM Internship Program** for providing the opportunity to explore cybersecurity and steganography techniques.
+Special thanks to **Edunet foundation collab with IBM Internship Program** for providing the opportunity to explore cybersecurity and steganography techniques.
 
